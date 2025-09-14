@@ -4,6 +4,7 @@ This project is a Deep Learning-based Flower Classification System that can reco
 It is trained on the Flowers dataset from Kaggle, and predicts the correct flower category given an input image.
 ---
 ##📌 Features
+
 Classifies multiple flower categories (e.g., Daisy, Rose, Sunflower, Tulip, Dandelion).
 Uses CNN architecture for image recognition.
 Trained using Keras with TensorFlow backend.
@@ -11,6 +12,7 @@ Displays the predicted class label along with the flower image.
 Stores the output image with its predicted name.
 ---
 ##🛠️ Tech Stack
+
 Python
 TensorFlow / Keras
 NumPy, Pandas
@@ -18,6 +20,7 @@ Matplotlib / OpenCV
 Jupyter Notebook
 ---
 ##📂 Project Structure
+
 flower-recognition/ │-- dataset/ # Training & testing dataset │-- Flower_recog_Model.ipynb # Jupyter notebook with training & evaluation │-- trained_model.h5 # Saved CNN model │-- predictions/ # Folder to save predicted output images │-- READ
 ---
 ##🚀 Getting Started
