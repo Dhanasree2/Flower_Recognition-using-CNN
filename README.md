@@ -53,7 +53,9 @@ Open Jupyter Notebook and run:
 
 jupyter notebook Flower_recog_Model.ipynb
 
-📊 Results
+---
+
+##📊 Results
 
 Achieved high accuracy on flower classification.
 
@@ -63,11 +65,16 @@ Predicted: 🌹 Rose
 
 The output image is displayed with the predicted flower name in the terminal.
 
-📸 Sample Output
+---
+
+##📸 Sample Output
+
 
 (Add screenshots here after running your model)
 
-📌 Future Enhancements
+---
+
+##📌 Future Enhancements
 
 Deploy as a web application using Flask or Streamlit.
 
@@ -75,7 +82,9 @@ Add more flower categories for robust recognition.
 
 Train with larger datasets for improved accuracy.
 
-🤝 Contributing
+---
+
+##🤝 Contributing
 
 Contributions are welcome!
 
@@ -89,12 +98,16 @@ Push to your branch
 
 Open a Pull Request
 
-📜 License
+---
+
+##📜 License
 
 This project is licensed under the MIT License - see the LICENSE
  file for details.
 
-🙏 Acknowledgments
+---
+
+##🙏 Acknowledgments
 
 Kaggle Flowers Dataset
 
