@@ -1,0 +1,16 @@
+# Ignore Keras/TensorFlow models
+*.h5
+*.hdf5
+
+# Ignore dataset files
+*.csv
+*.zip
+*.npy
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore large folders
+dataset/
+models/

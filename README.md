@@ -1,45 +1,24 @@
-# 🌸 Flower Recognition using Convolutional Neural Networks (CNN)
+🌸 Flower Recognition using Convolutional Neural Networks (CNN)
+This project is a Deep Learning-based Flower Classification System that can recognize different types of flowers using a Convolutional Neural Network (CNN) built with Keras and TensorFlow.
 
-This project is a **Deep Learning-based Flower Classification System** that can recognize different types of flowers using a **Convolutional Neural Network (CNN)** built with **Keras and TensorFlow**. 
- 
-It is trained on the **Flowers dataset from Kaggle**, and predicts the correct flower category given an input image.
+It is trained on the Flowers dataset from Kaggle, and predicts the correct flower category given an input image.
 
----
-
-## 📌 Features
-
-- Classifies multiple flower categories (e.g., Daisy, Rose, Sunflower, Tulip, Dandelion).
-- Uses **CNN architecture** for image recognition.
-- Trained using **Keras with TensorFlow backend**.
-- Displays the predicted class label along with the flower image.
-- Stores the output image with its predicted name.
-
----
-
-## 🛠️ Tech Stack
-
-- **Python**
-- **TensorFlow / Keras**
-- **NumPy, Pandas**
-- **Matplotlib / OpenCV**
-- **Jupyter Notebook**
-
----
-
-## 📂 Project Structure
-
-flower-recognition/
-│-- dataset/ # Training & testing dataset
-│-- Flower_recog_Model.ipynb # Jupyter notebook with training & evaluation
-│-- trained_model.h5 # Saved CNN model
-│-- predictions/ # Folder to save predicted output images
-│-- READ
----
-
-## 🚀 Getting Started
-
-1. Clone the repository
-```bash
+📌 Features
+Classifies multiple flower categories (e.g., Daisy, Rose, Sunflower, Tulip, Dandelion).
+Uses CNN architecture for image recognition.
+Trained using Keras with TensorFlow backend.
+Displays the predicted class label along with the flower image.
+Stores the output image with its predicted name.
+🛠️ Tech Stack
+Python
+TensorFlow / Keras
+NumPy, Pandas
+Matplotlib / OpenCV
+Jupyter Notebook
+📂 Project Structure
+flower-recognition/ │-- dataset/ # Training & testing dataset │-- Flower_recog_Model.ipynb # Jupyter notebook with training & evaluation │-- trained_model.h5 # Saved CNN model │-- predictions/ # Folder to save predicted output images │-- READ
+🚀 Getting Started
+Clone the repository
 git clone https://github.com/your-username/flower-recognition.git
 cd flower-recognition
 
@@ -69,8 +48,7 @@ The output image is displayed with the predicted flower name in the terminal.
 
 ##📸 Sample Output
 
-
-(Add screenshots here after running your model)
+<img width="1584" height="734" alt="Screenshot 2025-09-14 151437" src="https://github.com/user-attachments/assets/aeaec04e-0e13-4994-a679-3ff5bb4af5dc" />
 
 ---
 
@@ -114,6 +92,8 @@ Kaggle Flowers Dataset
 TensorFlow & Keras documentation
 
 Open-source community for inspiration
+
+
 
 
 
